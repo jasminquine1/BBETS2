@@ -1,6 +1,6 @@
 ---
 title: "Brownlows Bets"
-author: "Diamond Jim"
+author: "Jasmin Quintanilla"
 output: 
   html_document:
     number_sections: true
